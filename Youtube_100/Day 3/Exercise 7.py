@@ -1,6 +1,6 @@
 import os
 
-path = r'D:\Onelogica\Python course\Yt_Python\ExampleFolder'
+path = r'/Youtube_100/ExampleFolder'
 files = os.listdir(path)
 i = 1
 
